@@ -1,0 +1,38 @@
+body {
+  margin: 0;
+  padding: 0;
+  background-color: #fffae6;
+  font-family: "Inter", sans-serif;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+  min-height: 100vh;
+}
+
+* {
+  font-size: 14px;
+}
+
+p {
+  opacity: 0.6;
+}
+
+.font-weight-600 {
+  font-weight: 600;
+}
+
+#root {
+  min-height: 100vh;
+  display: flex;
+  align-items: center;
+}
+
+.App {
+  text-align: center;
+}
+
+div,
+input,
+textarea,
+label {
+  box-sizing: border-box !important;
+}
