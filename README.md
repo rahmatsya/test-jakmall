@@ -1,6 +1,25 @@
-# Getting Started with Create React App
+# TEST FRONTEND ENGINEER - JAKMALL
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+Name: Rachmad Syaefullah
+Email: rachmadsyaefullah13@gmail.com
+
+Library Used:
+- React JS
+- react-hook-form
+- styled-components
+- react-icons
+
+This project was initiated with [Create React App](https://github.com/facebook/create-react-app).
+
+## Flow
+There are 2 forms and 1 finish step in this project.
+
+Every input field is controlled and validated with react-hook-form.
+UI Styling was created from scratch with styled-component helps.
+
+Users are be able to fill the form and it will be saved to localeStorage, so if page is refreshed, the app will be able to collect data from localStorage.
+
+
 
 ## Available Scripts
 
@@ -39,32 +58,3 @@ Instead, it will copy all the configuration files and the transitive dependencie
 
 You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
 
-## Learn More
-
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
-
-To learn React, check out the [React documentation](https://reactjs.org/).
-
-### Code Splitting
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
-
-### Analyzing the Bundle Size
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
-
-### Making a Progressive Web App
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
-
-### Advanced Configuration
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `npm run build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
